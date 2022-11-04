@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4c5a566-f05e-465b-baa0-423e46e039bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +74,7 @@
       <workItem from="1667559818112" duration="648000" />
       <workItem from="1667578665179" duration="1855000" />
       <workItem from="1667581062105" duration="1295000" />
-      <workItem from="1667583822583" duration="13000" />
+      <workItem from="1667583822583" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="Converted to Maven Project &amp; DockerFile Added">
       <created>1667581353737</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667581587797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="maven.compiler.source &amp; maven.compiler.target added in pom.xml">
+      <created>1667583908303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667583908303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Converted to Maven Project &amp; DockerFile Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Converted to Maven Project &amp; DockerFile Added" />
+    <MESSAGE value="maven.compiler.source &amp; maven.compiler.target added in pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven.compiler.source &amp; maven.compiler.target added in pom.xml" />
   </component>
 </project>
