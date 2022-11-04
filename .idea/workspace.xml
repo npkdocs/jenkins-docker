@@ -74,7 +74,7 @@
       <workItem from="1667559818112" duration="648000" />
       <workItem from="1667578665179" duration="1855000" />
       <workItem from="1667581062105" duration="1295000" />
-      <workItem from="1667583822583" duration="778000" />
+      <workItem from="1667583822583" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="Converted to Maven Project &amp; DockerFile Added">
       <created>1667581353737</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667583908303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="build -&gt; fileName -&gt; jenkins-docker added">
+      <created>1667585068484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667585068484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Converted to Maven Project &amp; DockerFile Added" />
     <MESSAGE value="maven.compiler.source &amp; maven.compiler.target added in pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven.compiler.source &amp; maven.compiler.target added in pom.xml" />
+    <MESSAGE value="build -&gt; fileName -&gt; jenkins-docker added" />
+    <option name="LAST_COMMIT_MESSAGE" value="build -&gt; fileName -&gt; jenkins-docker added" />
   </component>
 </project>
