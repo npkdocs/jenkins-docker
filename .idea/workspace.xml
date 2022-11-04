@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4c5a566-f05e-465b-baa0-423e46e039bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,8 @@
       <workItem from="1667559818112" duration="648000" />
       <workItem from="1667578665179" duration="1855000" />
       <workItem from="1667581062105" duration="1295000" />
-      <workItem from="1667583822583" duration="989000" />
+      <workItem from="1667583822583" duration="1776000" />
+      <workItem from="1667586095323" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Converted to Maven Project &amp; DockerFile Added">
       <created>1667581353737</created>
