@@ -77,7 +77,7 @@
       <workItem from="1667581062105" duration="1295000" />
       <workItem from="1667583822583" duration="1776000" />
       <workItem from="1667586095323" duration="18000" />
-      <workItem from="1667627979712" duration="367000" />
+      <workItem from="1667627979712" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="Converted to Maven Project &amp; DockerFile Added">
       <created>1667581353737</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667585068484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dockerfile placed / before target">
+      <created>1667628441539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667628441539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Converted to Maven Project &amp; DockerFile Added" />
     <MESSAGE value="maven.compiler.source &amp; maven.compiler.target added in pom.xml" />
     <MESSAGE value="build -&gt; fileName -&gt; jenkins-docker added" />
-    <option name="LAST_COMMIT_MESSAGE" value="build -&gt; fileName -&gt; jenkins-docker added" />
+    <MESSAGE value="Dockerfile placed / before target" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dockerfile placed / before target" />
   </component>
 </project>
